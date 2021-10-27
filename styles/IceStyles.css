@@ -1,0 +1,22 @@
+.center{
+    text-align: center;
+}
+
+.hardcenter{
+    text-align: center;
+    max-width: 100%;
+}
+
+.eighty{
+    margin: auto;
+    max-width: 35%;
+    color: white;
+}
+body {
+    background-color: pink;
+}
+.listsection {
+    max-width: 100%;
+    margin: auto;
+    color: black;
+}

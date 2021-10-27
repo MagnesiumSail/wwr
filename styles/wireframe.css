@@ -1,0 +1,13 @@
+body{
+    margin: 0px;
+    font-size: 18px;
+}
+.cells {
+    border: 1px solid;
+    width: 80%;
+    margin: auto;
+}
+
+.logo {
+    text-align: center;
+}

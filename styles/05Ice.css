@@ -1,0 +1,9 @@
+.tophalf{
+    max-width: 50px, 100px;
+    border: 2px;
+}
+
+.bottomhalf{
+    max-width: 50px, 100px;
+    border: 2px;
+}
