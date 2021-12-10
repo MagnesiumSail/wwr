@@ -85,7 +85,7 @@ nav a:hover {
     padding: 35px;
 }
 .home-title {
-    color: black; 
+    color: white; 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 2em;
     margin-top: 10px;
@@ -193,6 +193,13 @@ main section img {
     grid-row: 6/7;
     box-shadow: 5px 5px 10px #564256;
 }
+.contenttitle {
+    text-align: center;
+}
+.contentgraph {
+text-align: left;
+padding: 35px;
+}
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
@@ -216,7 +223,7 @@ main section img {
     }
     .home-title {
         font-size: 25px;
-        color: #6f7364;
+        color: #ffffff;
     }
     .rivers-card, .camping-card, .rapids-card { 
         margin: 50px auto;
