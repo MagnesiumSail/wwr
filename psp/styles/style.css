@@ -50,7 +50,7 @@ nav a:hover {
     color: black; 
 }
 .home-grid{
-    background-image: url('/psp/images/kitchen.jpg');
+    background-image: url('https://media.istockphoto.com/photos/wooden-tabletop-over-defocused-kitchen-background-picture-id1071414426?k=20&m=1071414426&s=170667a&w=0&h=tHYU5YqhgADdEOVuQPuwGfNFcN1sTqE3uRPKqP5vzQo=');
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
