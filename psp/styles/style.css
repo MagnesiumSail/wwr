@@ -50,7 +50,7 @@ nav a:hover {
     color: black; 
 }
 .home-grid{
-    background-image: url('https://magnesiumsail.github.io/wwr/psp/images/kitchen.jpg');
+    background-image: url('/psp/images/kitchen.jpg');
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
